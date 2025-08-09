@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <main className="min-h-screen bg-gray-100 flex flex-col items-center p-8">
-      <h1 className="text-4xl font-bold mb-4">Hi, I'm Sena</h1>
+      <h1 className="text-4xl font-bold mb-4">Hi, I&apos;m Sena</h1>
       <p className="text-lg mb-8 text-center">
-        Welcome to my portfolio & blog. I write about my thoughts, projects, and more.
+        Welcome to my portfolio &amp; blog. I write about my thoughts, projects, and more.
       </p>
 
       <div className="w-full max-w-2xl space-y-4">
